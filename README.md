@@ -1,6 +1,6 @@
-# shutt_app
+# Shutt_app
 
-A new Flutter project.
+A Flutter Project on Shuttle Tracking by Enactus University of Ghana 
 
 ## Getting Started
 
